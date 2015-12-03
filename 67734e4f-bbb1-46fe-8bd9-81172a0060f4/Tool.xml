@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CSharpTool xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" z:Type="Inca.Commons.Tools.CSharp.CSharpTool" z:Assembly="Inca.Commons.Tools.CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.CSharp">
+  <CreatedDate xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">2015-11-06T15:26:05.7365916+01:00</CreatedDate>
+  <CurrentRevisionGuid xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">92d2ec40-16a9-460a-9796-14b5cd118f90</CurrentRevisionGuid>
+  <Description i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses" />
+  <FactoryGuid xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">cce81e37-03f3-4171-b251-d1a4ec85242e</FactoryGuid>
+  <Guid xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">67734e4f-bbb1-46fe-8bd9-81172a0060f4</Guid>
+  <IsInvisible xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">false</IsInvisible>
+  <LastUpdate xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">2015-11-06T16:34:13.8168816+01:00</LastUpdate>
+  <Name z:Id="2" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">Composite Loop Joint Connection</Name>
+  <Publisher i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses" />
+  <RandomLabel z:Id="3" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">BKEKJNWC</RandomLabel>
+  <SafeName z:Id="4" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">CompositeLoopJointConnection</SafeName>
+  <ToolboxGuid xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">54197c93-97d7-4e67-b969-9a01c9be5337</ToolboxGuid>
+  <_nextRevisionNumber xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">3</_nextRevisionNumber>
+</CSharpTool>

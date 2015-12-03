@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeLoopJointConnection", "Implementation\CompositeLoopJointConnection.csproj", "{DDE11073-807B-4AF0-9EE0-4C3B34A1BC91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeLoopJointConnection.Contracts", "Contracts\CompositeLoopJointConnection.Contracts.csproj", "{91844856-D583-43C6-BC2B-DC22643861AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE11073-807B-4AF0-9EE0-4C3B34A1BC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE11073-807B-4AF0-9EE0-4C3B34A1BC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE11073-807B-4AF0-9EE0-4C3B34A1BC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE11073-807B-4AF0-9EE0-4C3B34A1BC91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91844856-D583-43C6-BC2B-DC22643861AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91844856-D583-43C6-BC2B-DC22643861AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91844856-D583-43C6-BC2B-DC22643861AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91844856-D583-43C6-BC2B-DC22643861AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

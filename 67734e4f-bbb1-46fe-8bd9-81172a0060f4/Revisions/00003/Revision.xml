@@ -1,0 +1,1426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CSharpToolRevision xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" z:Type="Inca.Commons.Tools.CSharp.CSharpToolRevision" z:Assembly="Inca.Commons.Tools.CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.CSharp">
+  <Author z:Id="2" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">Lars.Lambrecht@engidesk.com</Author>
+  <BaseTypes xmlns:d2p1="http://schemas.datacontract.org/2004/07/Inca.Commons.Extensions.Tools" z:Id="3" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">
+    <d2p1:items z:Id="4" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ContractInfo, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+      <d2p1:_items z:Id="5" z:Size="4">
+        <d2p1:ContractInfo z:Id="6">
+          <d2p1:Files xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="7">
+            <d6p1:_items z:Id="8" z:Size="8">
+              <d6p1:string z:Id="9">C:\Users\Lars\AppData\Roaming\Engidesk\Tools\My Tools\Composite Loop Joint Connection\67734e4f-bbb1-46fe-8bd9-81172a0060f4\Revisions\00002\Contracts\Engidesk.BKEKJNWC.CompositeLoopJointConnection.Revision00002.Contract.dll</d6p1:string>
+              <d6p1:string z:Id="10">C:\Users\Lars\AppData\Roaming\Engidesk\Tools\My Tools\Composite Loop Joint Connection\67734e4f-bbb1-46fe-8bd9-81172a0060f4\Revisions\00002\Contracts\Engidesk.BKEKJNWC.CompositeLoopJointConnection.Revision00002.Generated.Contract.dll</d6p1:string>
+              <d6p1:string z:Id="11">C:\Users\Lars\AppData\Roaming\Engidesk\Tools\My Tools\Composite Loop Joint Connection\67734e4f-bbb1-46fe-8bd9-81172a0060f4\Revisions\00001\Contracts\Engidesk.BKEKJNWC.CompositeLoopJointConnection.Revision00001.Contract.dll</d6p1:string>
+              <d6p1:string z:Id="12">C:\Users\Lars\AppData\Roaming\Engidesk\Tools\My Tools\Composite Loop Joint Connection\67734e4f-bbb1-46fe-8bd9-81172a0060f4\Revisions\00001\Contracts\Engidesk.BKEKJNWC.CompositeLoopJointConnection.Revision00001.Generated.Contract.dll</d6p1:string>
+              <d6p1:string z:Id="13">C:\Users\Lars\AppData\Roaming\Engidesk\Tools\My Tools\Composite Loop Joint Connection\67734e4f-bbb1-46fe-8bd9-81172a0060f4\Revisions\00001\Contracts\Inca.Commons.Collections.dll</d6p1:string>
+              <d6p1:string z:Id="14">C:\Users\Lars\AppData\Roaming\Engidesk\Tools\My Tools\Composite Loop Joint Connection\67734e4f-bbb1-46fe-8bd9-81172a0060f4\Revisions\00001\Contracts\Inca.Commons.Datatypes.dll</d6p1:string>
+              <d6p1:string z:Id="15">C:\Users\Lars\AppData\Roaming\Engidesk\Tools\My Tools\Composite Loop Joint Connection\67734e4f-bbb1-46fe-8bd9-81172a0060f4\Revisions\00001\Contracts\Microsoft.Expression.Interactions.dll</d6p1:string>
+              <d6p1:string z:Id="16">C:\Users\Lars\AppData\Roaming\Engidesk\Tools\My Tools\Composite Loop Joint Connection\67734e4f-bbb1-46fe-8bd9-81172a0060f4\Revisions\00001\Contracts\Microsoft.Practices.Prism.Interactivity.dll</d6p1:string>
+            </d6p1:_items>
+            <d6p1:_size>8</d6p1:_size>
+            <d6p1:_version>2</d6p1:_version>
+          </d2p1:Files>
+          <d2p1:TypeName z:Id="17">Engidesk.BKEKJNWC.CompositeLoopJointConnection.Revision00002.Contracts.ICompositeLoopJointConnection</d2p1:TypeName>
+          <d2p1:Properties z:Id="18">
+            <d2p1:items z:Id="19" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+              <d2p1:_items z:Id="20" z:Size="32">
+                <d2p1:ToolContractProperty z:Id="21" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="22">Bolzenkraft</d2p1:DisplayName>
+                  <d2p1:Guid>49589ab0-d55c-4e5e-bb73-54676cf88048</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="23">Bolzenkraft</d2p1:Name>
+                  <d2p1:OrderIndex>0</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="24">
+                    <d10p1:_items z:Id="25" z:Size="0" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="26">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="27">
+                      <d11p1:_items z:Id="28" z:Size="0" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Id="29">double</d2p1:TypeName>
+                    <d2p1:Properties z:Id="30">
+                      <d2p1:items z:Id="31" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Id="32" z:Size="0" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="33">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="34">N</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="35" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="36">Innenradius</d2p1:DisplayName>
+                  <d2p1:Guid>8d311edd-a763-4a88-8deb-4e4c8503c767</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="37">Innenradius</d2p1:Name>
+                  <d2p1:OrderIndex>1</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="38">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="39">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="40">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="41">
+                      <d2p1:items z:Id="42" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="43">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="44">mm</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="45" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="46">Außenradius</d2p1:DisplayName>
+                  <d2p1:Guid>d61f25ad-1747-4b64-9285-1ba9cb27020d</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="47">Auenradius</d2p1:Name>
+                  <d2p1:OrderIndex>2</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="48">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="49">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="50">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="51">
+                      <d2p1:items z:Id="52" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="53">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="54">mm</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="55" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="56">Breite</d2p1:DisplayName>
+                  <d2p1:Guid>7d22bb57-ae87-46a3-a018-d786bce8c462</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="57">Breite</d2p1:Name>
+                  <d2p1:OrderIndex>3</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="58">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="59">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="60">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="61">
+                      <d2p1:items z:Id="62" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="63">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="64">mm</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="65" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="66">E-Modul Parallel</d2p1:DisplayName>
+                  <d2p1:Guid>221b1462-2877-4102-9041-17f9db2fc3e3</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="67">EModulParallel</d2p1:Name>
+                  <d2p1:OrderIndex>4</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="68">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="69">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="70">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="71">
+                      <d2p1:items z:Id="72" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="73">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="74">N/mm²</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="75" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="76">E-Modul Senkrecht</d2p1:DisplayName>
+                  <d2p1:Guid>8540fed7-8fe3-4968-a1e4-6ab0ee51908f</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="77">EModulSenkrecht</d2p1:Name>
+                  <d2p1:OrderIndex>5</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="78">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="79">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="80">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="81">
+                      <d2p1:items z:Id="82" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="83">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="84">N/mm²</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="85" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description z:Id="86">Große Querkontraktionszahl</d2p1:Description>
+                  <d2p1:DisplayName z:Id="87">Querkontraktionszahl parallel senkrecht</d2p1:DisplayName>
+                  <d2p1:Guid>3e7e2e7b-450b-491f-804c-2cc3b376e601</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="88">Querkontraktionszahlparallelsenkrecht</d2p1:Name>
+                  <d2p1:OrderIndex>6</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="89">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="90">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="91">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="92">
+                      <d2p1:items z:Id="93" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="94">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="95">-</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="96" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description z:Id="97">Kleine Querkontraktionszahl</d2p1:Description>
+                  <d2p1:DisplayName z:Id="98">Querkontraktionszahl senkrecht parallel</d2p1:DisplayName>
+                  <d2p1:Guid>7324b730-8134-402f-9940-795acf5960da</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="99">Querkontraktionszahlsenkrechtparallel</d2p1:Name>
+                  <d2p1:OrderIndex>7</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="100">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="101">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="102">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="103">
+                      <d2p1:items z:Id="104" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="105">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="106">-</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="107" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description z:Id="108">typische Annahme: 0.4</d2p1:Description>
+                  <d2p1:DisplayName z:Id="109">Querkontraktionszahl senkrecht senkrecht</d2p1:DisplayName>
+                  <d2p1:Guid>50ccbf03-294f-422a-b045-ccfdee3af1e1</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="110">Querkontraktionszahlsenkrechtsenkrecht</d2p1:Name>
+                  <d2p1:OrderIndex>8</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="111">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="112">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="113">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="114">
+                      <d2p1:items z:Id="115" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="116">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="117">-</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="118" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="119">Radius (r) </d2p1:DisplayName>
+                  <d2p1:Guid>ded5b7f5-7d68-47af-9e56-67804751204b</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="120">Radiusr</d2p1:Name>
+                  <d2p1:OrderIndex>9</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="121">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="122">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="123">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="124">
+                      <d2p1:items z:Id="125" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="126">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="127">mm</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="128" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>false</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="129">Leibungsdruck</d2p1:DisplayName>
+                  <d2p1:Guid>1971f851-d581-47ba-b420-2112fe831002</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>false</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>true</d2p1:IsModifies>
+                  <d2p1:Name z:Id="130">Leibungsdruck</d2p1:Name>
+                  <d2p1:OrderIndex>11</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="131">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="132">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="133">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="134">
+                      <d2p1:items z:Id="135" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="136">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="137">N/mm²</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="138" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>false</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="139">Maximale Radialspannung</d2p1:DisplayName>
+                  <d2p1:Guid>31448593-5ce5-42e0-83b3-e3aea319e2df</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>false</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>true</d2p1:IsModifies>
+                  <d2p1:Name z:Id="140">MaximaleRadialspannung</d2p1:Name>
+                  <d2p1:OrderIndex>13</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="141">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="142">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="143">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="144">
+                      <d2p1:items z:Id="145" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="146">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="147">N/mm²</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="148" z:Type="Engidesk.Types.Platform.Function.FunctionPropertyContract" z:Assembly="Engidesk.Types.Platform.Function, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>false</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="149">Verlauf der Radialspannung</d2p1:DisplayName>
+                  <d2p1:Guid>6e953c8a-9fa2-4094-b225-af3141c8037e</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>false</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>true</d2p1:IsModifies>
+                  <d2p1:Name z:Id="150">Radialspannungr</d2p1:Name>
+                  <d2p1:OrderIndex>14</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="151">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="152">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="153">
+                      <d11p1:_items z:Id="154" z:Size="4">
+                        <d11p1:string z:Id="155">C:\Users\Lars\AppData\Roaming\Engidesk\Commons\Inca.Commons.Reflection.dll</d11p1:string>
+                        <d11p1:string z:Id="156">C:\Users\Lars\AppData\Roaming\Engidesk\Commons\Inca.Commons.Data.dll</d11p1:string>
+                        <d11p1:string z:Id="157">C:\Users\Lars\AppData\Roaming\Engidesk\Commons\Engidesk.Types.Function.dll</d11p1:string>
+                        <d11p1:string i:nil="true" />
+                      </d11p1:_items>
+                      <d11p1:_size>3</d11p1:_size>
+                      <d11p1:_version>4</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Id="158">Engidesk.Types.Function.Function</d2p1:TypeName>
+                    <d2p1:Properties z:Id="159">
+                      <d2p1:items z:Id="160" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="161">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="162">N/mm²</d2p1:Unit>
+                  <ChartTypeDefinition z:Id="163" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">
+                    <ChartType>Line</ChartType>
+                  </ChartTypeDefinition>
+                  <XTitle i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function" />
+                  <YTitle i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function" />
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="164" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>false</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="165">Maximale Tangentialspannung</d2p1:DisplayName>
+                  <d2p1:Guid>7928a482-763b-45f2-85c4-93bfc80258cf</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>false</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>true</d2p1:IsModifies>
+                  <d2p1:Name z:Id="166">MaximaleTangentialspannung</d2p1:Name>
+                  <d2p1:OrderIndex>15</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="167">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="168">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="169">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="170">
+                      <d2p1:items z:Id="171" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="172">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="173">N/mm²</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="174" z:Type="Engidesk.Types.Platform.Function.FunctionPropertyContract" z:Assembly="Engidesk.Types.Platform.Function, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>false</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="175">Verlauf der Tangentialspannung (r)</d2p1:DisplayName>
+                  <d2p1:Guid>6a7bc361-e6f3-4160-97fe-52f6cba7f28f</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>true</d2p1:IsInherited>
+                  <d2p1:IsInput>false</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>true</d2p1:IsModifies>
+                  <d2p1:Name z:Id="176">Tangentialspannungr</d2p1:Name>
+                  <d2p1:OrderIndex>16</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="177">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="178">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="179">
+                      <d11p1:_items z:Id="180" z:Size="4">
+                        <d11p1:string z:Id="181">C:\Users\Lars\AppData\Roaming\Engidesk\Commons\Inca.Commons.Reflection.dll</d11p1:string>
+                        <d11p1:string z:Id="182">C:\Users\Lars\AppData\Roaming\Engidesk\Commons\Inca.Commons.Data.dll</d11p1:string>
+                        <d11p1:string z:Id="183">C:\Users\Lars\AppData\Roaming\Engidesk\Commons\Engidesk.Types.Function.dll</d11p1:string>
+                        <d11p1:string i:nil="true" />
+                      </d11p1:_items>
+                      <d11p1:_size>3</d11p1:_size>
+                      <d11p1:_version>4</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Id="184">Engidesk.Types.Function.Function</d2p1:TypeName>
+                    <d2p1:Properties z:Id="185">
+                      <d2p1:items z:Id="186" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="187">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="188">N/mm²</d2p1:Unit>
+                  <ChartTypeDefinition z:Id="189" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">
+                    <ChartType>Line</ChartType>
+                  </ChartTypeDefinition>
+                  <XTitle i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function" />
+                  <YTitle i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function" />
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="190" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>false</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="191">Radialspannung (Radius)</d2p1:DisplayName>
+                  <d2p1:Guid>9f794ffe-bfbd-46c3-9bc9-48e52feaa515</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>false</d2p1:IsInherited>
+                  <d2p1:IsInput>false</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>true</d2p1:IsModifies>
+                  <d2p1:Name z:Id="192">RadialspannungRadius</d2p1:Name>
+                  <d2p1:OrderIndex>12</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="193">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="194">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="195">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="196">
+                      <d2p1:items z:Id="197" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="198">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="199">N/mm²</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="200" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>false</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="201">Tangentialspannung (Radius)</d2p1:DisplayName>
+                  <d2p1:Guid>2312740c-49e2-4391-ad41-9eab24973200</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>false</d2p1:IsInherited>
+                  <d2p1:IsInput>false</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>true</d2p1:IsModifies>
+                  <d2p1:Name z:Id="202">TangentialspannungRadius</d2p1:Name>
+                  <d2p1:OrderIndex>17</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="203">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="204">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="205">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="206">
+                      <d2p1:items z:Id="207" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="208">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="209">N/mm²</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="210" z:Type="Engidesk.Types.Platform.Function.FunctionPropertyContract" z:Assembly="Engidesk.Types.Platform.Function, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>false</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="211">Verlauf der Axialspannung</d2p1:DisplayName>
+                  <d2p1:Guid>8c453562-849e-448c-9f9e-9e7b60fa632f</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>false</d2p1:IsInherited>
+                  <d2p1:IsInput>false</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>true</d2p1:IsModifies>
+                  <d2p1:Name z:Id="212">VerlaufderAxialspannung</d2p1:Name>
+                  <d2p1:OrderIndex>20</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="213">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="214">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="215">
+                      <d11p1:_items z:Id="216" z:Size="4">
+                        <d11p1:string z:Id="217">C:\Users\Lars\AppData\Roaming\Engidesk\Commons\Inca.Commons.Reflection.dll</d11p1:string>
+                        <d11p1:string z:Id="218">C:\Users\Lars\AppData\Roaming\Engidesk\Commons\Inca.Commons.Data.dll</d11p1:string>
+                        <d11p1:string z:Id="219">C:\Users\Lars\AppData\Roaming\Engidesk\Commons\Engidesk.Types.Function.dll</d11p1:string>
+                        <d11p1:string i:nil="true" />
+                      </d11p1:_items>
+                      <d11p1:_size>3</d11p1:_size>
+                      <d11p1:_version>4</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Id="220">Engidesk.Types.Function.Function</d2p1:TypeName>
+                    <d2p1:Properties z:Id="221">
+                      <d2p1:items z:Id="222" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="223">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="224">N/mm²</d2p1:Unit>
+                  <ChartTypeDefinition z:Id="225" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">
+                    <ChartType>Line</ChartType>
+                  </ChartTypeDefinition>
+                  <XTitle i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function" />
+                  <YTitle i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function" />
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="226" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>false</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="227">Axialspannung (Radius)</d2p1:DisplayName>
+                  <d2p1:Guid>9a29c1c1-606e-4724-92dc-5b3de153e966</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>false</d2p1:IsInherited>
+                  <d2p1:IsInput>false</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>true</d2p1:IsModifies>
+                  <d2p1:Name z:Id="228">AxialspannungRadius</d2p1:Name>
+                  <d2p1:OrderIndex>18</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="229">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="230">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="231">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="232">
+                      <d2p1:items z:Id="233" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="234">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="235">N/mm²</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="236" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>false</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="237">Maximale Axialspannung</d2p1:DisplayName>
+                  <d2p1:Guid>ee94a206-cb3f-4586-9612-df48ab0153b1</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>false</d2p1:IsInherited>
+                  <d2p1:IsInput>false</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>true</d2p1:IsModifies>
+                  <d2p1:Name z:Id="238">MaximaleAxialspannung</d2p1:Name>
+                  <d2p1:OrderIndex>19</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="239">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="240">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="241">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Ref="29" i:nil="true" />
+                    <d2p1:Properties z:Id="242">
+                      <d2p1:items z:Id="243" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="244">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit z:Id="245">N/mm²</d2p1:Unit>
+                  <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty z:Id="246" z:Type="Engidesk.Types.Platform.Boolean.BooleanPropertyContract" z:Assembly="Engidesk.Types.Platform.Boolean, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                  <d2p1:CanUserModify>true</d2p1:CanUserModify>
+                  <d2p1:Category i:nil="true" />
+                  <d2p1:Description i:nil="true" />
+                  <d2p1:DisplayName z:Id="247">Schlaufe wird seitlich gestützt</d2p1:DisplayName>
+                  <d2p1:Guid>94fe998a-dd87-433a-bc48-348c6b1e8b04</d2p1:Guid>
+                  <d2p1:IsCollection>false</d2p1:IsCollection>
+                  <d2p1:IsInherited>false</d2p1:IsInherited>
+                  <d2p1:IsInput>true</d2p1:IsInput>
+                  <d2p1:IsInvisible>false</d2p1:IsInvisible>
+                  <d2p1:IsModifies>false</d2p1:IsModifies>
+                  <d2p1:Name z:Id="248">Schlaufewirdseitlichgestuetzt</d2p1:Name>
+                  <d2p1:OrderIndex>10</d2p1:OrderIndex>
+                  <d2p1:Parameters xmlns:d10p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="249">
+                    <d10p1:_items z:Ref="25" i:nil="true" />
+                    <d10p1:_size>0</d10p1:_size>
+                    <d10p1:_version>0</d10p1:_version>
+                  </d2p1:Parameters>
+                  <d2p1:PropertyContractInfo z:Id="250">
+                    <d2p1:Files xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="251">
+                      <d11p1:_items z:Ref="28" i:nil="true" />
+                      <d11p1:_size>0</d11p1:_size>
+                      <d11p1:_version>1</d11p1:_version>
+                    </d2p1:Files>
+                    <d2p1:TypeName z:Id="252">bool</d2p1:TypeName>
+                    <d2p1:Properties z:Id="253">
+                      <d2p1:items z:Id="254" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+                        <d2p1:_items z:Ref="32" i:nil="true" />
+                        <d2p1:_size>0</d2p1:_size>
+                        <d2p1:_version>1</d2p1:_version>
+                      </d2p1:items>
+                      <d2p1:_monitor xmlns:d12p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="255">
+                        <d12p1:_busyCount>0</d12p1:_busyCount>
+                      </d2p1:_monitor>
+                    </d2p1:Properties>
+                  </d2p1:PropertyContractInfo>
+                  <d2p1:Unit i:nil="true" />
+                </d2p1:ToolContractProperty>
+                <d2p1:ToolContractProperty i:nil="true" />
+                <d2p1:ToolContractProperty i:nil="true" />
+                <d2p1:ToolContractProperty i:nil="true" />
+                <d2p1:ToolContractProperty i:nil="true" />
+                <d2p1:ToolContractProperty i:nil="true" />
+                <d2p1:ToolContractProperty i:nil="true" />
+                <d2p1:ToolContractProperty i:nil="true" />
+                <d2p1:ToolContractProperty i:nil="true" />
+                <d2p1:ToolContractProperty i:nil="true" />
+                <d2p1:ToolContractProperty i:nil="true" />
+                <d2p1:ToolContractProperty i:nil="true" />
+              </d2p1:_items>
+              <d2p1:_size>21</d2p1:_size>
+              <d2p1:_version>21</d2p1:_version>
+            </d2p1:items>
+            <d2p1:_monitor xmlns:d7p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="256">
+              <d7p1:_busyCount>0</d7p1:_busyCount>
+            </d2p1:_monitor>
+          </d2p1:Properties>
+        </d2p1:ContractInfo>
+        <d2p1:ContractInfo i:nil="true" />
+        <d2p1:ContractInfo i:nil="true" />
+        <d2p1:ContractInfo i:nil="true" />
+      </d2p1:_items>
+      <d2p1:_size>1</d2p1:_size>
+      <d2p1:_version>1</d2p1:_version>
+    </d2p1:items>
+    <d2p1:_monitor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="257">
+      <d3p1:_busyCount>0</d3p1:_busyCount>
+    </d2p1:_monitor>
+  </BaseTypes>
+  <CheckInComment i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses" />
+  <CheckInDate xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">2015-11-06T16:34:13.8078813+01:00</CheckInDate>
+  <ContractAssembly z:Id="258" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">Engidesk.BKEKJNWC.CompositeLoopJointConnection.Revision00003.Contract.dll</ContractAssembly>
+  <ContractName z:Id="259" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">Engidesk.BKEKJNWC.CompositeLoopJointConnection.Revision00003.Contracts.ICompositeLoopJointConnection</ContractName>
+  <CreatedDate xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">2015-11-06T16:31:40.3753242+01:00</CreatedDate>
+  <Description i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses" />
+  <GeneratedContractName z:Id="260" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">Engidesk.BKEKJNWC.CompositeLoopJointConnection.Revision00003.Generated.Contracts.ICompositeLoopJointConnection</GeneratedContractName>
+  <IsCheckedIn xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">true</IsCheckedIn>
+  <IsCompatibleWithPredecessor xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">true</IsCompatibleWithPredecessor>
+  <IsPendingDeletion xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">false</IsPendingDeletion>
+  <IsTemporary xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">true</IsTemporary>
+  <PredecessorGuid xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">11538825-5329-4b81-8686-5fa80b1b1c39</PredecessorGuid>
+  <Properties xmlns:d2p1="http://schemas.datacontract.org/2004/07/Inca.Commons.Extensions.Tools" z:Id="261" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">
+    <d2p1:items z:Id="262" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolContractProperty, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+      <d2p1:_items z:Id="263" z:Size="32">
+        <d2p1:ToolContractProperty z:Id="264" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="22" i:nil="true" />
+          <d2p1:Guid>49589ab0-d55c-4e5e-bb73-54676cf88048</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="23" i:nil="true" />
+          <d2p1:OrderIndex>0</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="265">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="26" i:nil="true" />
+          <d2p1:Unit z:Ref="34" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="266" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="36" i:nil="true" />
+          <d2p1:Guid>8d311edd-a763-4a88-8deb-4e4c8503c767</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="37" i:nil="true" />
+          <d2p1:OrderIndex>1</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="267">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="39" i:nil="true" />
+          <d2p1:Unit z:Ref="44" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="268" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="46" i:nil="true" />
+          <d2p1:Guid>d61f25ad-1747-4b64-9285-1ba9cb27020d</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="47" i:nil="true" />
+          <d2p1:OrderIndex>2</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="269">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="49" i:nil="true" />
+          <d2p1:Unit z:Ref="54" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="270" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="56" i:nil="true" />
+          <d2p1:Guid>7d22bb57-ae87-46a3-a018-d786bce8c462</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="57" i:nil="true" />
+          <d2p1:OrderIndex>3</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="271">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="59" i:nil="true" />
+          <d2p1:Unit z:Ref="64" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="272" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="66" i:nil="true" />
+          <d2p1:Guid>221b1462-2877-4102-9041-17f9db2fc3e3</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="67" i:nil="true" />
+          <d2p1:OrderIndex>4</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="273">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="69" i:nil="true" />
+          <d2p1:Unit z:Ref="74" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="274" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="76" i:nil="true" />
+          <d2p1:Guid>8540fed7-8fe3-4968-a1e4-6ab0ee51908f</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="77" i:nil="true" />
+          <d2p1:OrderIndex>5</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="275">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="79" i:nil="true" />
+          <d2p1:Unit z:Ref="84" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="276" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description z:Ref="86" i:nil="true" />
+          <d2p1:DisplayName z:Ref="87" i:nil="true" />
+          <d2p1:Guid>3e7e2e7b-450b-491f-804c-2cc3b376e601</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="88" i:nil="true" />
+          <d2p1:OrderIndex>6</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="277">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="90" i:nil="true" />
+          <d2p1:Unit z:Ref="95" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="278" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description z:Ref="97" i:nil="true" />
+          <d2p1:DisplayName z:Ref="98" i:nil="true" />
+          <d2p1:Guid>7324b730-8134-402f-9940-795acf5960da</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="99" i:nil="true" />
+          <d2p1:OrderIndex>7</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="279">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="101" i:nil="true" />
+          <d2p1:Unit z:Ref="106" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="280" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description z:Ref="108" i:nil="true" />
+          <d2p1:DisplayName z:Ref="109" i:nil="true" />
+          <d2p1:Guid>50ccbf03-294f-422a-b045-ccfdee3af1e1</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="110" i:nil="true" />
+          <d2p1:OrderIndex>8</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="281">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="112" i:nil="true" />
+          <d2p1:Unit z:Ref="117" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="282" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="119" i:nil="true" />
+          <d2p1:Guid>ded5b7f5-7d68-47af-9e56-67804751204b</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="120" i:nil="true" />
+          <d2p1:OrderIndex>9</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="283">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="122" i:nil="true" />
+          <d2p1:Unit z:Ref="127" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="284" z:Type="Engidesk.Types.Platform.Boolean.BooleanPropertyContract" z:Assembly="Engidesk.Types.Platform.Boolean, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>true</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="247" i:nil="true" />
+          <d2p1:Guid>94fe998a-dd87-433a-bc48-348c6b1e8b04</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>true</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>false</d2p1:IsModifies>
+          <d2p1:Name z:Ref="248" i:nil="true" />
+          <d2p1:OrderIndex>10</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="285">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="250" i:nil="true" />
+          <d2p1:Unit i:nil="true" />
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="286" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>false</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="129" i:nil="true" />
+          <d2p1:Guid>1971f851-d581-47ba-b420-2112fe831002</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>false</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>true</d2p1:IsModifies>
+          <d2p1:Name z:Ref="130" i:nil="true" />
+          <d2p1:OrderIndex>11</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="287">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="132" i:nil="true" />
+          <d2p1:Unit z:Ref="137" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="288" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>false</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="191" i:nil="true" />
+          <d2p1:Guid>9f794ffe-bfbd-46c3-9bc9-48e52feaa515</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>false</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>true</d2p1:IsModifies>
+          <d2p1:Name z:Ref="192" i:nil="true" />
+          <d2p1:OrderIndex>12</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="289">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="194" i:nil="true" />
+          <d2p1:Unit z:Ref="199" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="290" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>false</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="139" i:nil="true" />
+          <d2p1:Guid>31448593-5ce5-42e0-83b3-e3aea319e2df</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>false</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>true</d2p1:IsModifies>
+          <d2p1:Name z:Ref="140" i:nil="true" />
+          <d2p1:OrderIndex>13</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="291">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="142" i:nil="true" />
+          <d2p1:Unit z:Ref="147" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="292" z:Type="Engidesk.Types.Platform.Function.FunctionPropertyContract" z:Assembly="Engidesk.Types.Platform.Function, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>false</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="149" i:nil="true" />
+          <d2p1:Guid>6e953c8a-9fa2-4094-b225-af3141c8037e</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>false</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>true</d2p1:IsModifies>
+          <d2p1:Name z:Ref="150" i:nil="true" />
+          <d2p1:OrderIndex>14</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="293">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="152" i:nil="true" />
+          <d2p1:Unit z:Ref="162" i:nil="true" />
+          <ChartTypeDefinition z:Id="294" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">
+            <ChartType>Line</ChartType>
+          </ChartTypeDefinition>
+          <XTitle z:Id="295" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">Radius   [mm]</XTitle>
+          <YTitle z:Id="296" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">Radialspannung   [N/mm²]</YTitle>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="297" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>false</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="165" i:nil="true" />
+          <d2p1:Guid>7928a482-763b-45f2-85c4-93bfc80258cf</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>false</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>true</d2p1:IsModifies>
+          <d2p1:Name z:Ref="166" i:nil="true" />
+          <d2p1:OrderIndex>16</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="298">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="168" i:nil="true" />
+          <d2p1:Unit z:Ref="173" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="299" z:Type="Engidesk.Types.Platform.Function.FunctionPropertyContract" z:Assembly="Engidesk.Types.Platform.Function, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>false</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="175" i:nil="true" />
+          <d2p1:Guid>6a7bc361-e6f3-4160-97fe-52f6cba7f28f</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>false</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>true</d2p1:IsModifies>
+          <d2p1:Name z:Ref="176" i:nil="true" />
+          <d2p1:OrderIndex>17</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="300">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="178" i:nil="true" />
+          <d2p1:Unit z:Ref="188" i:nil="true" />
+          <ChartTypeDefinition z:Id="301" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">
+            <ChartType>Line</ChartType>
+          </ChartTypeDefinition>
+          <XTitle z:Id="302" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">Radius   [mm]</XTitle>
+          <YTitle z:Id="303" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">Tangenialspannung   [N/mm²]</YTitle>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="304" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>false</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="201" i:nil="true" />
+          <d2p1:Guid>2312740c-49e2-4391-ad41-9eab24973200</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>false</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>true</d2p1:IsModifies>
+          <d2p1:Name z:Ref="202" i:nil="true" />
+          <d2p1:OrderIndex>15</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="305">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="204" i:nil="true" />
+          <d2p1:Unit z:Ref="209" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="306" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>false</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="227" i:nil="true" />
+          <d2p1:Guid>9a29c1c1-606e-4724-92dc-5b3de153e966</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>false</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>true</d2p1:IsModifies>
+          <d2p1:Name z:Ref="228" i:nil="true" />
+          <d2p1:OrderIndex>18</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="307">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="230" i:nil="true" />
+          <d2p1:Unit z:Ref="235" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="308" z:Type="Engidesk.Types.Platform.Double.DoublePropertyContract" z:Assembly="Engidesk.Types.Platform.Double, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>false</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="237" i:nil="true" />
+          <d2p1:Guid>ee94a206-cb3f-4586-9612-df48ab0153b1</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>false</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>true</d2p1:IsModifies>
+          <d2p1:Name z:Ref="238" i:nil="true" />
+          <d2p1:OrderIndex>19</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="309">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="240" i:nil="true" />
+          <d2p1:Unit z:Ref="245" i:nil="true" />
+          <DisplayDigits xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Double">2</DisplayDigits>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty z:Id="310" z:Type="Engidesk.Types.Platform.Function.FunctionPropertyContract" z:Assembly="Engidesk.Types.Platform.Function, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+          <d2p1:CanUserModify>false</d2p1:CanUserModify>
+          <d2p1:Category i:nil="true" />
+          <d2p1:Description i:nil="true" />
+          <d2p1:DisplayName z:Ref="211" i:nil="true" />
+          <d2p1:Guid>8c453562-849e-448c-9f9e-9e7b60fa632f</d2p1:Guid>
+          <d2p1:IsCollection>false</d2p1:IsCollection>
+          <d2p1:IsInherited>true</d2p1:IsInherited>
+          <d2p1:IsInput>false</d2p1:IsInput>
+          <d2p1:IsInvisible>false</d2p1:IsInvisible>
+          <d2p1:IsModifies>true</d2p1:IsModifies>
+          <d2p1:Name z:Ref="212" i:nil="true" />
+          <d2p1:OrderIndex>20</d2p1:OrderIndex>
+          <d2p1:Parameters xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="311">
+            <d6p1:_items z:Ref="25" i:nil="true" />
+            <d6p1:_size>0</d6p1:_size>
+            <d6p1:_version>0</d6p1:_version>
+          </d2p1:Parameters>
+          <d2p1:PropertyContractInfo z:Ref="214" i:nil="true" />
+          <d2p1:Unit z:Ref="224" i:nil="true" />
+          <ChartTypeDefinition z:Id="312" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">
+            <ChartType>Line</ChartType>
+          </ChartTypeDefinition>
+          <XTitle z:Id="313" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">Radius   [mm]</XTitle>
+          <YTitle z:Id="314" xmlns="http://schemas.datacontract.org/2004/07/Engidesk.Types.Platform.Function">Axialspannung   [N/mm²]</YTitle>
+        </d2p1:ToolContractProperty>
+        <d2p1:ToolContractProperty i:nil="true" />
+        <d2p1:ToolContractProperty i:nil="true" />
+        <d2p1:ToolContractProperty i:nil="true" />
+        <d2p1:ToolContractProperty i:nil="true" />
+        <d2p1:ToolContractProperty i:nil="true" />
+        <d2p1:ToolContractProperty i:nil="true" />
+        <d2p1:ToolContractProperty i:nil="true" />
+        <d2p1:ToolContractProperty i:nil="true" />
+        <d2p1:ToolContractProperty i:nil="true" />
+        <d2p1:ToolContractProperty i:nil="true" />
+        <d2p1:ToolContractProperty i:nil="true" />
+      </d2p1:_items>
+      <d2p1:_size>21</d2p1:_size>
+      <d2p1:_version>21</d2p1:_version>
+    </d2p1:items>
+    <d2p1:_monitor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="315">
+      <d3p1:_busyCount>0</d3p1:_busyCount>
+    </d2p1:_monitor>
+  </Properties>
+  <RevisionGuid xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">92d2ec40-16a9-460a-9796-14b5cd118f90</RevisionGuid>
+  <RevisionNumber xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">3</RevisionNumber>
+  <SafeName z:Id="316" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">CompositeLoopJointConnection</SafeName>
+  <ToolGuid xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">67734e4f-bbb1-46fe-8bd9-81172a0060f4</ToolGuid>
+  <TypeAssembly z:Id="317" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">Engidesk.BKEKJNWC.CompositeLoopJointConnection.Revision00003.dll</TypeAssembly>
+  <TypeName z:Id="318" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">Engidesk.BKEKJNWC.CompositeLoopJointConnection.Revision00003.CompositeLoopJointConnection</TypeName>
+  <UserGuid xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">00000000-0000-0000-0000-000000000000</UserGuid>
+  <ViewContracts xmlns:d2p1="http://schemas.datacontract.org/2004/07/Inca.Commons.Extensions.Tools" z:Id="319" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Tools.Base.BaseClasses">
+    <d2p1:items z:Id="320" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ViewContract, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+      <d2p1:_items z:Id="321" z:Size="0" />
+      <d2p1:_size>0</d2p1:_size>
+      <d2p1:_version>0</d2p1:_version>
+    </d2p1:items>
+    <d2p1:_monitor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="322">
+      <d3p1:_busyCount>0</d3p1:_busyCount>
+    </d2p1:_monitor>
+  </ViewContracts>
+</CSharpToolRevision>

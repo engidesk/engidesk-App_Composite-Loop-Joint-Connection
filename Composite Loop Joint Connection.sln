@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8e04e9ca-7879-4755-893d-f549bc064dff}") = "CompositeLoopJointConnection", "C:\Users\Lars\AppData\Roaming\Engidesk\Tools\My Tools\Composite Loop Joint Connection\67734e4f-bbb1-46fe-8bd9-81172a0060f4\Source\Implementation\CompositeLoopJointConnection.csproj", "dde11073-807b-4af0-9ee0-4c3b34a1bc91"
+Project("{8e04e9ca-7879-4755-893d-f549bc064dff}") = "CompositeLoopJointConnection.Contracts", "C:\Users\Lars\AppData\Roaming\Engidesk\Tools\My Tools\Composite Loop Joint Connection\67734e4f-bbb1-46fe-8bd9-81172a0060f4\Source\Contracts\CompositeLoopJointConnection.Contracts.csproj", "91844856-d583-43c6-bc2b-dc22643861ae"
+EndProject
+Global	
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection	
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

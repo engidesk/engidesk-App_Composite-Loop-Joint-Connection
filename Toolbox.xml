@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Toolbox xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" z:Type="Inca.Commons.Extensions.Tools.Toolbox" z:Assembly="Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Extensions.Tools">
+  <AuthorId>9f922966-06ad-4aa6-b420-b1283474d96a</AuthorId>
+  <CompanyId>00000000-0000-0000-0000-000000000000</CompanyId>
+  <CreatedDate>0001-01-01T00:00:00</CreatedDate>
+  <Description i:nil="true" />
+  <Guid>54197c93-97d7-4e67-b969-9a01c9be5337</Guid>
+  <IsUploaded>false</IsUploaded>
+  <LastUpdate>0001-01-01T00:00:00</LastUpdate>
+  <LastUpdateLocalVersion>0001-01-01T00:00:00</LastUpdateLocalVersion>
+  <LastUpdateRemoteVersion>0001-01-01T00:00:00</LastUpdateRemoteVersion>
+  <LongDescription i:nil="true" />
+  <Name z:Id="2">Composite Loop Joint Connection</Name>
+  <Publisher i:nil="true" />
+  <PublisherAdress i:nil="true" />
+  <PublisherDescription i:nil="true" />
+  <PublisherLink i:nil="true" />
+  <RootFolder z:Id="3">
+    <Folders z:Id="4">
+      <items z:Id="5" z:Type="System.Collections.Generic.List`1[[Inca.Commons.Extensions.Tools.ToolboxFolder, Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0">
+        <_items z:Id="6" z:Size="0" />
+        <_size>0</_size>
+        <_version>0</_version>
+      </items>
+      <_monitor xmlns:d4p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="7">
+        <d4p1:_busyCount>0</d4p1:_busyCount>
+      </_monitor>
+    </Folders>
+    <Guid>91bb7e24-ead9-4c52-bedd-5961d37f00ba</Guid>
+    <Name z:Id="8">Root</Name>
+    <ToolIds xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="9">
+      <d3p1:_items z:Id="10" z:Size="0" />
+      <d3p1:_size>0</d3p1:_size>
+      <d3p1:_version>0</d3p1:_version>
+    </ToolIds>
+  </RootFolder>
+  <Tags xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="11">
+    <d2p1:items z:Id="12" z:Type="System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]" z:Assembly="0">
+      <d2p1:_items z:Id="13" z:Size="0" />
+      <d2p1:_size>0</d2p1:_size>
+      <d2p1:_version>0</d2p1:_version>
+    </d2p1:items>
+    <d2p1:_monitor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" z:Id="14">
+      <d3p1:_busyCount>0</d3p1:_busyCount>
+    </d2p1:_monitor>
+  </Tags>
+</Toolbox>

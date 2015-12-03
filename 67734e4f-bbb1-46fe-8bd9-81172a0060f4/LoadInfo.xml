@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ToolLoadInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" z:Type="Inca.Commons.Extensions.Tools.ToolLoadInfo" z:Assembly="Inca.Commons.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/Inca.Commons.Extensions.Tools">
+  <FactoryGuid>cce81e37-03f3-4171-b251-d1a4ec85242e</FactoryGuid>
+</ToolLoadInfo>
